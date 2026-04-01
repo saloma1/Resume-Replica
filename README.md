@@ -3,9 +3,14 @@
 This project was developed as a group task during frontend training. I collaborated with teammates to design and build the resume layout.
 
 🔗 **Live Demo:**  
-[https://saloma1.github.io/Resume-Replica/](https://saloma1.github.io/Resume-Replica/)
+[https://saloma1.github.io/Resume-Replica/](https://saloma1.github.io/Resume-Replica/) 
 
 ---
+📸 Screenshots
+🖥️ Desktop View
+
+![Desktop](./ProjectPic/HomePage.jpg)
+![Desktop](./ProjectPic/Contact.jpg)
 
 ## 🛠️ Technologies Used
 
