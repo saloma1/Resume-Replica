@@ -8,8 +8,8 @@ This project was developed as a group task during frontend training. I collabora
 ---
 📸 Screenshots
 🖥️ Desktop View
+[![Desktop](./ProjectPic/HomePage.jpg)](https://saloma1.github.io/Resume-Replica/)
 
-![Desktop](./ProjectPic/HomePage.jpg)
 ![Desktop](./ProjectPic/Contact.jpg)
 
 ## 🛠️ Technologies Used
